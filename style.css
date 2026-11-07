@@ -1,0 +1,6 @@
+body{font-family:Arial,sans-serif;max-width:800px;margin:auto;padding:20px;line-height:1.7;color:#222}
+header{background:#0a7a42;color:white;padding:20px;border-radius:10px;text-align:center}
+a{color:#0a7a42;text-decoration:none}
+nav a{margin:0 10px;font-weight:bold}
+.card{border:1px solid #ddd;padding:15px;border-radius:10px;margin:15px 0}
+footer{margin-top:30px;text-align:center;color:#777;font-size:14px}
